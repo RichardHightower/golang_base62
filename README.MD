@@ -30,15 +30,19 @@
 * [How a URL Shortening Application Works](https://dzone.com/articles/how-a-url-shortening-application-works)
 * [Designing the Shortening URL system like Bit.ly, loading 6 billion clicks a month](https://itnext.io/designing-the-shortening-url-system-like-bit-ly-loading-6-billion-clicks-a-month-78b3e48eee8c)
 
-# Videos in this series
+
+### Videos in this series
 * [First Video in Base62 language series 3rd Vlog video](https://www.youtube.com/watch?v=07Wkf9OZE3U)  [Show Notes]()
 * [Second Video in Base62 language (Java) series 4th Vlog video](https://www.youtube.com/watch?v=sOhzb6OqyGA) [Show Notes](https://gist.github.com/RichardHightower/035fda0b65de540574e458dedf9dae6d)
 * [Third Video in Base62 language (Scala) series 5th Vlog video](https://www.youtube.com/watch?v=TlQZn9MajlY)  [Show Notes](https://gist.github.com/RichardHightower/1d64d0c958a7643c8b0b573c08138e1f)
 * [Fourth Video in Base62 language (Clojure) series 6th Vlog video](https://www.youtube.com/watch?v=1kbAUob3Bi0) [Show notes](https://gist.github.com/RichardHightower/5b45e5162cf8295f73e71d67ad4a442d)
 * [Fifth Video in Base62 language (Python) series 7th Vlog video](https://www.youtube.com/watch?v=Sdfxs8UsK3w) [Show notes](https://github.com/RichardHightower/python_base62)
 * [Sixth Video in Base62 language (JavaScript/TypeScript) series 8th Vlog video](https://www.youtube.com/TBD) [Show notes](https://github.com/RichardHightower/ts_js_base62)
-* [Seventh Video in Base62 language (Rust) series 9th Vlog video](https://www.youtube.com/TBD) [Show notes](https://github.com/RichardHightower/https://github.com/RichardHightower/rust_base62)
-* [Eighth Video in Base62 language (Go Lang) series 10th Vlog video](https://www.youtube.com/TBD) [Show notes](https://github.com/RichardHightower/golang_base62)
+* [Seventh Video in Base62 language (Kotlin) series 9th Vlog video](https://www.youtube.com/TBD) [Show notes](https://github.com/RichardHightower/ts_js_base62)
+* [Eighth Video in Base62 language (Rust) series 10th Vlog video](https://www.youtube.com/TBD) [Show notes](https://github.com/RichardHightower/https://github.com/RichardHightower/rust_base62)
+* [Ninth Video in Base62 language (Go Lang) series 11th Vlog video](https://www.youtube.com/TBD) [Show notes](https://github.com/RichardHightower/golang_base62)
+
+
 
 # Related articles
 * [Comparing Basic FP support part 1 --Rick Hightower](https://www.linkedin.com/pulse/comparing-basic-fp-support-part-1-rick-hightower/)
